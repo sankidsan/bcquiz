@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bcquiz/static/css/main.7eba46f3.chunk.css",
-    "main.js": "/bcquiz/static/js/main.c93ffd8a.chunk.js",
-    "main.js.map": "/bcquiz/static/js/main.c93ffd8a.chunk.js.map",
+    "main.js": "/bcquiz/static/js/main.1b2141b3.chunk.js",
+    "main.js.map": "/bcquiz/static/js/main.1b2141b3.chunk.js.map",
     "runtime~main.js": "/bcquiz/static/js/runtime~main.d138814e.js",
     "runtime~main.js.map": "/bcquiz/static/js/runtime~main.d138814e.js.map",
-    "static/js/2.83f31959.chunk.js": "/bcquiz/static/js/2.83f31959.chunk.js",
-    "static/js/2.83f31959.chunk.js.map": "/bcquiz/static/js/2.83f31959.chunk.js.map",
+    "static/js/2.acb9772f.chunk.js": "/bcquiz/static/js/2.acb9772f.chunk.js",
+    "static/js/2.acb9772f.chunk.js.map": "/bcquiz/static/js/2.acb9772f.chunk.js.map",
     "index.html": "/bcquiz/index.html",
-    "precache-manifest.f9a0ee13167be285f58133f08d9b6573.js": "/bcquiz/precache-manifest.f9a0ee13167be285f58133f08d9b6573.js",
+    "precache-manifest.3dad3fed6426290844f4fc717bcee2c7.js": "/bcquiz/precache-manifest.3dad3fed6426290844f4fc717bcee2c7.js",
     "service-worker.js": "/bcquiz/service-worker.js",
     "static/css/main.7eba46f3.chunk.css.map": "/bcquiz/static/css/main.7eba46f3.chunk.css.map"
   }
