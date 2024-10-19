@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-quiz-app/static/css/main.7eba46f3.chunk.css",
+    "main.js": "/online-quiz-app/static/js/main.c93ffd8a.chunk.js",
+    "main.js.map": "/online-quiz-app/static/js/main.c93ffd8a.chunk.js.map",
+    "runtime~main.js": "/online-quiz-app/static/js/runtime~main.fe9b840a.js",
+    "runtime~main.js.map": "/online-quiz-app/static/js/runtime~main.fe9b840a.js.map",
+    "static/js/2.83f31959.chunk.js": "/online-quiz-app/static/js/2.83f31959.chunk.js",
+    "static/js/2.83f31959.chunk.js.map": "/online-quiz-app/static/js/2.83f31959.chunk.js.map",
+    "index.html": "/online-quiz-app/index.html",
+    "precache-manifest.3841cf5e97ca78382f77db67c846bab2.js": "/online-quiz-app/precache-manifest.3841cf5e97ca78382f77db67c846bab2.js",
+    "service-worker.js": "/online-quiz-app/service-worker.js",
+    "static/css/main.7eba46f3.chunk.css.map": "/online-quiz-app/static/css/main.7eba46f3.chunk.css.map"
+  }
+}
